@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Titillium+Web:wght@200&display=swap');
+body{ overflow:hidden;
+    position: relative;
+    background:url("./background/photo.jpg") no-repeat center/cover;
+    height:100vh;
+    z-index: -1;
+    h1{ display:inline-flex;
+    padding: 35px;
+    border-radius: 11px;
+    border:1px outset rgb(255,255,255);
+    font: 70 75px 'Bebas Neue', cursive;
+    position: absolute;
+    top:230px;
+    left:360px;
+    color:rgb(255,255,255);
+    }
+    .container{ position: relative;
+        top: 15px;
+        left:1025px;
+    }
+    p{font:  22px 'Titillium Web', cursive;
+    color: rgb(255,255,255);
+    position:relative;
+    top:240px;
+    left:140px;
+    text-shadow: 2px 2px #E078EC;
+    }
+}
