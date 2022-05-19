@@ -1,5 +1,7 @@
 # Color picker in React
 
+![download](https://user-images.githubusercontent.com/101524289/169342949-1d131e09-a184-4261-bc9c-7723c57eea40.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
